@@ -1,6 +1,6 @@
 # Hi, I'm Khushboo 👋🏻 🧬💻
 
-<img src= "<img src="https://github.com/Khushboo847/Khushboo847/blob/main/gh-header-image-cropped.png?raw=true" alt="banner">">
+<img src="https://github.com/Khushboo847/Khushboo847/blob/main/Black and White Modern Clean Professional Programmer LinkedIn Background.png?raw=true" alt="banner">
 
 I'm a Biotechnology undergraduate passionate about combining **biology, computation, and data analytics** to solve real-world healthcare and life science problems. I enjoy working on projects involving **bioinformatics pipelines, healthcare data analysis, structural bioinformatics, and AI-driven biological research**.
 
