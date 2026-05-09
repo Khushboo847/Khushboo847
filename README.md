@@ -1,4 +1,4 @@
-# Hi, I'm Khushboo 👋🏻 🧬💻
+# Hi, I'm Khushboo 👋🏻 
 
 <img src="https://github.com/Khushboo847/Khushboo847/blob/main/Black and White Modern Clean Professional Programmer LinkedIn Background.png?raw=true" alt="banner">
 
