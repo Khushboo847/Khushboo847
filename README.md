@@ -6,7 +6,6 @@ I'm a Biotechnology undergraduate passionate about combining **biology, computat
 
 I believe technology and biological data together can transform the future of healthcare. From solving Rosalind problems and building bioinformatics scripts to exploring epidemiology and data visualization, I’m constantly learning and improving my technical skillset.
 
-Some technologies and tools I enjoy working with include **Python, BioPython, SQL, Streamlit, Linux, Perl/BioPerl, BLAST, and Power BI**.
 
 > *“In computational biology, data is the new microscope.”*
 
@@ -17,8 +16,6 @@ Some technologies and tools I enjoy working with include **Python, BioPython, SQ
 * 📊 Healthcare Data Analytics
 * 🧬 Structural Bioinformatics
 * ⚙️ Bioinformatics Pipelines
-* 🤖 AI & Data Science in Healthcare
-* 📈 Power BI & Data Visualization
 * 🌍 Epidemiology & Population Health Data
 
 ---
@@ -54,23 +51,10 @@ Some technologies and tools I enjoy working with include **Python, BioPython, SQ
 
 ## 🧪 What I'm Working On
 
-* Solving Rosalind Bioinformatics Challenges 🧬
 * Building Biological & Healthcare Data Analysis Projects 📊
-* Learning Data Analytics using Power BI 📈
 * Improving Programming & Problem-Solving Skills 💻
 * Exploring AI Applications in Biotechnology 🤖
 * Understanding Epidemiological Data & Trends 🌍
-
----
-
-## 📚 Interests
-
-* Healthcare Analytics
-* Computational Biology
-* Structural Bioinformatics
-* Biological Data Interpretation
-* AI in Healthcare
-* Scientific Computing & Research
 
 ---
 
@@ -81,14 +65,6 @@ When I’m not coding or analyzing biological datasets, you’ll probably find m
 * 📚 Reading novels and books
 * 🧠 Learning something new in science & technology
 * 🌱 Exploring emerging healthcare innovations
-
----
-
-## 🎯 Career Goals
-
-Currently working toward becoming a **Healthcare Data Analyst**, with long-term aspirations in **Data Science, Computational Biology, and AI-driven Healthcare Solutions**.
-
-I aspire to contribute to industries where **biology, data, and technology** come together to create meaningful impact.
 
 ---
 
