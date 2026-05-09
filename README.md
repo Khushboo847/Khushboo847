@@ -1,6 +1,6 @@
 # Hi, I'm Khushboo 👋🏻 🧬💻
 
-<img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="banner that says Khushboo Chaudhary - Biotechnology Student | Bioinformatics & Healthcare Data Analytics Enthusiast">
+<img src= "<img src="https://github.com/Khushboo847/Khushboo847/blob/main/banner.png?raw=true" alt="banner">">
 
 I'm a Biotechnology undergraduate passionate about combining **biology, computation, and data analytics** to solve real-world healthcare and life science problems. I enjoy working on projects involving **bioinformatics pipelines, healthcare data analysis, structural bioinformatics, and AI-driven biological research**.
 
